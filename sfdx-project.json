@@ -1,10 +1,11 @@
 {
-    "packageDirectories": [
-        {
-            "path": "mdapi",
-            "default": true
-        }
-    ],
-    "namespace": "",
-    "sourceApiVersion": "52.0"
+  "packageDirectories": [
+    {
+      "path": "mdapi",
+      "default": true
+    }
+  ],
+  "namespace": "",
+  "sourceApiVersion": "52.0",
+  "sfdcLoginUrl": "https://wise-badger-7c12rs-dev-ed.lightning.force.com"
 }
